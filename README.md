@@ -1,4 +1,4 @@
-# Práctica: Explicación de GitHub y Azure
+# Práctica: Explicación de GitHub y Azure V2
 
 ## Descripción
 
