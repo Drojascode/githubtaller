@@ -1,5 +1,5 @@
 ﻿-- =============================================
--- Author:		<Author,,Name>
+-- Author:		Diego Rojas Valverde
 -- Create date: <Create Date,,>
 -- Description:	<Description,,>
 -- =============================================
